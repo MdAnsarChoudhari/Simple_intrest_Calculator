@@ -1,6 +1,6 @@
-P=float("Enter the Principal Amount : ")
-T=float("Enter the Time Period : ")
-R=float("Enter the Rate of Intrest : ")
+P=float(input("Enter the Principal Amount : "))
+T=float(input("Enter the Time Period : "))
+R=float(input("Enter the Rate of Intrest : "))
 
 SI=(P*T*R)/100
 
