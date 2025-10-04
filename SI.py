@@ -1,4 +1,4 @@
-P=flaot("Enter the Principal Amount : ")
+P=float("Enter the Principal Amount : ")
 T=float("Enter the Time Period : ")
 R=float("Enter the Rate of Intrest : ")
 
